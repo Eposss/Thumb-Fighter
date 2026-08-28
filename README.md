@@ -17,13 +17,12 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="[URL_TO_MAIN_MENU_IMAGE]" width="220" alt="Main Menu Screen">
+  <img src="tf3_lite/IMG_3532.PNG" width="220" alt="Main Menu Screen">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="[URL_TO_GAMEPLAY_IMAGE]" width="220" alt="Gameplay Action">
+  <img src="tf3_lite/IMG_3535.PNG" width="220" alt="Gameplay Action">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="[URL_TO_VICTORY_IMAGE]" width="220" alt="Victory Screen">
+  <img src="tf3_lite/IMG_3537.PNG" width="220" alt="Victory Screen">
 </div>
-<p align="center"><em>(Upload your screenshots to a folder named <code>assets</code> in this repo and replace the bracketed links above with the relative paths)</em></p>
 
 ## ✨ Key Features
 * **Single-Device Multiplayer:** Face off against a friend simultaneously on one iPhone screen.
